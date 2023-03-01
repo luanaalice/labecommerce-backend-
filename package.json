@@ -1,0 +1,25 @@
+{
+  "name": "labecommerce-backend-",
+  "version": "1.0.0",
+  "description": "Primeiro exercício backend.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " clear && node ./index.js",
+    "start": " clear && node ./joguinho.js",
+    "par-ou-impar": "node ./par-ou-impar.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanaalice/labecommerce-backend-.git"
+  },
+  "keywords": [],
+  "author": "LUANA C PEREIRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanaalice/labecommerce-backend-/issues"
+  },
+  "homepage": "https://github.com/luanaalice/labecommerce-backend-#readme"
+}
